@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Abduction of Ganymede",
+        "category": "Oil Painting",
+        "collection": "Old Masters Picture Gallery",
+        "date": "1635",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "artist": "Rembrant",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "In classical poetry Ganymede is described as a beautiful youth, who was much loved by the gods as a cup-bearer. Jupiter himself had fallen in love with the boy, and after assuming the form of an eagle had kidnapped him from the Trojan plains. The painting has been interpreted in quite different ways: humanists saw the childlike pure soul loved by God in the figure of the small child Ganymede, while the motif of urination was believed to emphasize Ganymede's second nature as the zodiac sign Aquarius, the water bearer, who called for the growth of vegetation, other theories concentrate in the cherries.",
+        "imageName": "abductionofganymede"
+    },
+    {
+        "name": "Belshazzar's Feast",
+        "category": "Lakes",
+        "collection": "Port Alsworth",
+        "date": "----",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "artist": "Rembrant",
+        "coordinates": {
+            "longitude": 4.8896900,
+            "latitude": 52.3740300
+        },
+        "description": "Rembrandt's source for this painting, the Old Testament Book of Daniel (5: 1-6, 25-8), tells of a banquet Belshazzar, King of Babylon, gave for his nobles. At this banquet he blasphemously served wine in the sacred vessels his father Nebuchadnezzar had looted from the Temple in Jerusalem. Belshazzar is a study in shock: he has turned his head at least 90 degrees, his neck is tensed and throat compressed. He is presented with an absolute mystery. While his bewildered eyes are fixed on the sinister glowing text, his left arm rises to protect himself, as if he faces a physical rather than a spiritual attack. His costume - the gold and silver thread, the chains, the turban with its little crown top - is one of Rembrandt's most luxurious concoctions of dress. Yet the still-life arrangement of fruit and dining utensils are not that different from the comforts of affluent Dutch life in Rembrandt's day, giving this history a contemporary edge.",
+        "imageName": "belshazzarsfeast"
+    },
+    {
+        "name": "Dead Peacocks",
+        "category": "Mountains",
+        "collection": "Rijksmuseum",
+        "date": "----",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "artist": "Rembrant",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "In Rembrandt's time, peacocks were eaten by the well-to-do: the meat was incorporated into meat pies, among other dishes. Immediately after being killed, the birds were hung to bleed out, as Rembrandt shows us in this storeroom",
+        "imageName": "deadpeacocks"
+    },
+    {
+        "name": "One of the Two Old",
+        "category": "Sketch",
+        "collection": "Browning",
+        "date": "1634",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "artist": "Rembrandt van Rijn",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "The sketch portrays a man pondering.",
+        "imageName": "oneofthetwoold"
+    },
+    {
+        "name": "Siemon's Song of Praise",
+        "category": "Oil Painting",
+        "collection": "Twin Lakes",
+        "date": "----",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "artist": "Rembrant",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "The work is dated at 1669 which is the year of Rembrandt's passing. It is likely to have been his final painting, marking it out as a highly significant addition to the famous master's extensive career. It is a crying shame that this particular item was not well looked after in the early years after the artist's death, causing damage that could never be reversed centuries later. Christian tales had inspired Rembrandt right throughout his career, just as they had earlier through the various stages of the Renaissance when religious themes dominated the content of sculpture, painting and architecture. Indeed, on just this theme alone the famous master produced two paintings and several other drawings.",
+        "imageName": "siemonssongofpraise"
+    },
+    {
+        "name": "The Night Watch",
+        "category": "Oil Painting",
+        "collection": "Rijks Museum",
+        "date": "----",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "artist": "Rembrant",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Would it surprise you to find that the title that Rembrandt’s most famous painting is known by is actually incorrect?  The so-called Night Watch is not a night scene at all; it actually takes place during the day.  This title, which was not given by the artist, was first applied at the end of the eighteenth century.  By that time the painting had darkened considerably through the accumulation of many layers of dirt and varnish, giving the appearance that the event takes place at night.",
+        "imageName": "thenightwatch"
+    },
+    {
+        "name": "The Storm on the Sea of Galilee",
+        "category": "Oil Painting",
+        "collection": "Eaking",
+        "date": "----",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "artist": "Rembrandt",
+        "coordinates": {
+            "longitude": 32.83333,
+            "latitude": 35.583331
+        },
+        "description": "The Storm in the sea of Galilee is a painting done as an excerpt from the Bible where Jesus and His disciples were caught up in a storm while out in the sea on their boat. The painting was done by Rembrandt Van Rijn in the 1632. In the Bible, the disciples were in a state of frenzy and panic as they looked death in the eye, whilst their master Jesus peacefully slept. His disciples screamed at the raging the sea waves, not to mention the wild motion of the boat as a result of the storm.",
+        "imageName": "thestormontheseaofgalilee",
+    }
+]
+
